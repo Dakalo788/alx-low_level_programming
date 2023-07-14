@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include <time.h>
 /**
- * main - print last digit of a number stored in variable n
- * is the string greater than 5, 0, or less than 6 and not 0
- * Return: always 0.
+ * main - Prints last digit of a randomly generated number
+ * and whether it  is the string greater than 5, 0, or less than 6 and not 0.
+ *
+ * Return: Always 0.
  */
 int main(void)
 {
