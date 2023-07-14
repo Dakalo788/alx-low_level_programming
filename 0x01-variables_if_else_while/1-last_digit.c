@@ -1,5 +1,7 @@
+#include <stdio.h>
+#include <time.h>
 /**
- * main - prints last digit of a number stored in variable n
+ * main - print last digit of a number stored in variable n
  * is the string greater than 5, 0, or less than 6 and not 0
  * Return: always 0.
  */
